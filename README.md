@@ -16,7 +16,11 @@ _**Vera Weikel, Ruben Giosa, **_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_ 1. Create a new web page for an animal shelter. List out the animals available to be adopted, including pictures and descriptions of each animal. Have at least 3-5 animals listed. Don't forget to set up a git repository, make frequent commits and push to a remote repository on GitHub.
+2. Display each animal's "profile" in a column.
+3. Change the styles of elements nested within the columns using the idea of cascading.
+4. Find other places in your web pages where you can change elements on the page according to cascading precedence.
+5. Center some elements on the page._
 
 ## Setup/Installation Requirements
 
