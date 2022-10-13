@@ -8,20 +8,32 @@
   max-height: 33.3%;
   float: left;
   padding: 1%;
-  border: black solid 2px;
+  border: black solid 1px;
   box-sizing: border-box;
 }
 
 .animal1{
   background-color: aliceblue;
+  border-left: black solid 2px;
+  border-top: black solid 2px;
+  border-bottom: black solid 2px;
 }
 
 .animal2{
   background-color: antiquewhite;
+  border-top: black solid 2px;
+  border-bottom: black solid 2px;
 }
 
-#animal3{
+.animal3{
   background-color: lightgreen;
+  border-right: black solid 2px;
+  border-top: black solid 2px;
+  border-bottom: black solid 2px;
+}
+
+.animal3 p {
+  color: darkblue;
 }
 
 .animal img {
@@ -31,6 +43,7 @@
 
 h1 {
   text-align: center;
+  color: blue;
 }
 
 .animal h2 {
@@ -43,4 +56,39 @@ h1 {
 
 #red-span {
   color: red;
+}
+
+.bottom {
+  float: left;
+  border: green solid 10px;
+  padding: 0 px;
+  background-color: orange;
+  padding: 10px;
+  margin: auto;
+}
+
+.bottom img {
+  margin: auto;
+  width: 70%;
+  height: auto;
+  display: block;
+}
+
+.list {
+  display: block;
+  float: right;
+  background-color: rgb(224, 238, 144);
+  border: black solid 2px;
+  margin: auto;
+  width: 30%;
+}
+
+.list h2 {
+  text-align: center;
+  color: rebeccapurple;
+}
+
+.list ul {
+  justify-items: center;
+  color: rebeccapurple;
 }
