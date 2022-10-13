@@ -55,35 +55,21 @@
 
 .bottom {
   float: left;
+  width: 60%;
   border: green solid 10px;
-  padding: 0 px;
+  padding: 10 px;
   background-color: orange;
-  padding: 10px;
   margin: auto;
 }
 
 .bottom img {
   margin: auto;
-  width: 70%;
+  width: 90%;
   height: auto;
   display: block;
 }
 
-.list {
-  display: block;
-  float: right;
-  background-color: rgb(224, 238, 144);
-  border: black solid 2px;
-  margin: auto;
-  width: 30%;
-}
-
-.list h2 {
-  text-align: center;
-  color: rebeccapurple;
-}
-
-.list ul {
-  justify-items: center;
-  color: rebeccapurple;
-}
+/* .list {
+  background-color: aqua;
+  border: black dashed 7px;
+} */
